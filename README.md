@@ -74,8 +74,8 @@
 
 В репозитории находятся файлы прошивок `.uf2` для различных моделей устройств Apple A5:
 
-- `8940.uf2` — iPad 2, iPad mini (A5 8940)
-- `8942.uf2` — iPhone 4S, iPod touch 5 (A5 8942)
+- `8940.uf2` — iPad 2, iPhone 4s (A5 8940)
+- `8942.uf2` — iPad mini 1 gen, iPod touch 5 (A5 8942)
 - `8945.uf2` — Apple TV 3, iPad 3 (A5 8945)
 
 ### 2. Загрузка прошивки на Raspberry Pi Pico
