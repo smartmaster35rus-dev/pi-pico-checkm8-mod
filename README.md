@@ -7,23 +7,23 @@
 
 <p align="center">
 
-[рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
 ---
 
-## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+## 🇷🇺 О программе
 
 **Raspberry Pi Pico Checkm8 Mod** — модификация прошивки **RP2040 (Pico)** для триггера **checkm8** на устройствах **Apple A5** в DFU/PWNDFU.
 
-## рџ‡¬рџ‡§ About
+## 🇬🇧 About
 
 Raspberry Pi Pico (RP2040) firmware mod for checkm8 DFU/PWNDFU workflows on Apple A5 chips.
 
 ---
 
-## вњЁ Key features
+## ✨ Key features
 
 | Feature | Description |
 |---------|-------------|
@@ -33,7 +33,7 @@ Raspberry Pi Pico (RP2040) firmware mod for checkm8 DFU/PWNDFU workflows on Appl
 
 ---
 
-## рџ“‹ Requirements
+## 📋 Requirements
 
 - Raspberry Pi Pico
 - Apple A5 device in DFU
@@ -41,9 +41,9 @@ Raspberry Pi Pico (RP2040) firmware mod for checkm8 DFU/PWNDFU workflows on Appl
 
 ---
 
-## вљ–пёЏ Disclaimer
+## ⚖️ Disclaimer
 
-РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+Инструмент предназначен для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
 
 For **authorized service and research** on devices you own or may service.
 
@@ -51,6 +51,6 @@ For **authorized service and research** on devices you own or may service.
 
 <p align="center">
 
-**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
